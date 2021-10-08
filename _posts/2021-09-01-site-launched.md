@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Site Launched "
-date: 2021-09-01
+title: "Rocket Launched"
+date: 2021-010-01
 ---
 
-Created a simple website using GitHub Pages with integrated Jekyll (note md files use Markdown for syntax formatting).  **Bold** words.  As Markdown is actually is a lot easier to use for writing posts/notes than raw HTML.
+**0830**:At 0800 hours on the morning of 01-10-2021 a NASA rocket launched for Mars, commencing Operation Red Sand. The takeoff went smooth and atmospheric turbulence was at a minimum.
+
+**0900**:Engine check: Engine Fuel level... 23% |Fuel level low, switching to reactor power| Reactor Stable at 37%
+
+**0902**:Auto Flight Systems check: Autopilot... Active | Destination: Mars(Landing Quordiantes:Right Ascension: 12h 56m 39.2s 
+Declination: -5° 21' 09.0" (J2000))
