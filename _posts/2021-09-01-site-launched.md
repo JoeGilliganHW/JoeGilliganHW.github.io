@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rocket Launched"
-date: 2021-010-01
+date: 2021-001-10
 ---
 
 **0830**:At 0800 hours on the morning of 01-10-2021 a NASA rocket launched for Mars, commencing Operation Red Sand. The takeoff went smooth and atmospheric turbulence was at a minimum.
