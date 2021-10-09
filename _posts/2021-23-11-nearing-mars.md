@@ -8,4 +8,4 @@ date: 2021-023-11
 
 **1930**:I can now, looking out the window, see the detail on Mars' surface. It's another world, yet it feels familiar.
 
-**2245**:Auto Flight Systems check: Autopilot... Deactive | Engage Auto landing procedure: Auto landing engaging... Active. Touchdown in T-minus 120 minutes.
+**2245**:Auto Flight Systems check: Autopilot... Deactive. Engage Auto landing procedure: Auto landing engaging... Active. Touchdown in T-minus 120 minutes.
